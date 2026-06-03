@@ -1,6 +1,6 @@
 # Interactive Portfolio Website
 
-A responsive portfolio website built with HTML5, CSS3 and Bootstrap showcasing coding projects and professional background.
+A responsive portfolio website built with HTML5, CSS3 and Bootstrap showcasing coding projects with professional background.
 
 ---
 
@@ -20,3 +20,14 @@ A responsive portfolio website built with HTML5, CSS3 and Bootstrap showcasing c
 - About
 - Portfolio
 - Contact
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/awbuild/responsive-design-animations
+cd responsive-design-animations
+```
+
+Open `index.html` in your browser.
