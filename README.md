@@ -1,3 +1,22 @@
-HTML, CSS, Bootstrap, Font Awesome & Google Fonts
+# Interactive Portfolio Website
 
-For more details on the skills demonstrated, please refer to the "Responsive Design Project Rubric."
+A responsive portfolio website built with HTML5, CSS3 and Bootstrap showcasing coding projects and professional background.
+
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Google Fonts
+- Font Awesome Icons
+
+---
+
+## Pages
+
+- Intro
+- About
+- Portfolio
+- Contact
