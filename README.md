@@ -25,6 +25,4 @@ A responsive portfolio website built with HTML5, CSS3, and Bootstrap showcasing 
 
 ## How to Run
 
-```bash
 Open index.html in your browser.
-```
